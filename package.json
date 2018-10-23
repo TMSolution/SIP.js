@@ -1,13 +1,13 @@
 {
-  "name": "sip.js",
-  "title": "SIP.js",
+  "name": "tms.sip.js",
+  "title": "TMS.SIP.js",
   "description": "A simple, intuitive, and powerful JavaScript signaling library",
   "version": "0.11.6",
   "main": "dist/sip.js",
   "browser": {
     "./src/environment.js": "./src/environment_browser.js"
   },
-  "homepage": "https://sipjs.com",
+  "homepage": "https://github.com/TMSolution/SIP.js.git",
   "author": "OnSIP <developer@onsip.com> (https://sipjs.com/aboutus/)",
   "contributors": [
     {
