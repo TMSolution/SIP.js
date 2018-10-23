@@ -1,8 +1,8 @@
 {
-  "name": "tms.sip.js",
-  "title": "TMS.SIP.js",
+  "name": "tms-sip.js",
+  "title": "TMS-SIP.js",
   "description": "A simple, intuitive, and powerful JavaScript signaling library",
-  "version": "0.11.6",
+  "version": "0.0.2",
   "main": "dist/sip.js",
   "browser": {
     "./src/environment.js": "./src/environment_browser.js"
@@ -27,7 +27,7 @@
   ],
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
-    "eslint": "^5.4.0",
+    "eslint": "^5.7.0",
     "jasmine-core": "^3.2.1",
     "karma": "^3.0.0",
     "karma-chrome-launcher": "^2.2.0",
